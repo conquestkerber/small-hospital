@@ -1,0 +1,44 @@
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\obj\Debug\BazeKonacna.Form1.resources
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\obj\Debug\BazeKonacna.Properties.Resources.resources
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\obj\Debug\BazeKonacnaIzmena.csproj.GenerateResource.Cache
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\obj\Debug\BazeKonacna.exe
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\obj\Debug\BazeKonacna.pdb
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\bin\Debug\BazeKonacna.exe.config
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\bin\Debug\BazeKonacna.exe
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\bin\Debug\BazeKonacna.pdb
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\bin\Debug\EntityFramework.dll
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\bin\Debug\FluentNHibernate.dll
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\bin\Debug\Iesi.Collections.dll
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\bin\Debug\NHibernate.dll
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\bin\Debug\EntityFramework.xml
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\bin\Debug\FluentNHibernate.pdb
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\bin\Debug\FluentNHibernate.xml
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\bin\Debug\Iesi.Collections.xml
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\bin\Debug\NHibernate.xml
+D:\Downloads\baze\BazeKonacnaVerzija\BazeKonacna\obj\Debug\BazeKonacnaIzmena.csprojResolveAssemblyReference.cache
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\bin\Debug\BazeKonacna.exe.config
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\obj\Debug\BazeKonacna.exe
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\obj\Debug\BazeKonacna.pdb
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\bin\Debug\BazeKonacna.exe
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\bin\Debug\BazeKonacna.pdb
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\bin\Debug\EntityFramework.dll
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\bin\Debug\FluentNHibernate.dll
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\bin\Debug\Iesi.Collections.dll
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\bin\Debug\NHibernate.dll
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\bin\Debug\EntityFramework.xml
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\bin\Debug\FluentNHibernate.pdb
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\bin\Debug\FluentNHibernate.xml
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\bin\Debug\Iesi.Collections.xml
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\bin\Debug\NHibernate.xml
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\obj\Debug\BazeKonacnaIzmena.csprojResolveAssemblyReference.cache
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\obj\Debug\BazeKonacna.Form1.resources
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\obj\Debug\BazeKonacna.Properties.Resources.resources
+D:\Downloads\baze\3 verzija novo\Nasa sa sajta\BazeKonacnaVerzija\BazeKonacna\obj\Debug\BazeKonacnaIzmena.csproj.GenerateResource.Cache
